@@ -8,6 +8,7 @@ import { Container, Content } from './styles';
 
 interface HeaderProps {
 
+
   onOpenOpenNewTransactionsModal: () => void;
 
 

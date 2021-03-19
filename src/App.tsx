@@ -28,6 +28,7 @@ export function App() {
 
   return (
     <>
+
       <Header onOpenOpenNewTransactionsModal={handleOpenNewTransactionsModal} />
       <Dashboard />
 
